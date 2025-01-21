@@ -1,4 +1,4 @@
-# Bank-Marketing--EDA
+# Bank-Marketing-EDA
 Author Aryan Roy<br>
 The bank provides its customers with financial services, such as savings accounts, current accounts and debit cards. In order to increase its overall revenue, the bank conducts various marketing campaigns for its financial products, such as credit cards, term deposits and loans. These campaigns are intended for the bank’s existing customers. However, these campaigns need to be cost-efficient so that the bank increases its overall revenues and total profit.
 the bank conducted a telemarketing campaign for one of its financial products, ‘term deposits’, to help foster long-term relationships with its existing customers.<br>
